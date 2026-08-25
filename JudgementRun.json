@@ -1,0 +1,11 @@
+{
+    "id": "JudgementRun",
+    "name": "JudgementRun",
+    "author": ["NickTG"],
+    "description": "Judgement replaces the Joker everywhere. Any effect that would create a Joker creates a Judgement instead, so you never choose a single Joker all run.",
+    "prefix": "ntgjr",
+    "main_file": "JudgementRun.lua",
+    "priority": 0,
+    "badge_colour": "0047AB",
+    "version": "1.4.0"
+}
